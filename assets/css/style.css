@@ -116,17 +116,7 @@ p {
     max-height: 200px;
 }
 
-.search-engine-optimization h2, h4 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2, h4 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2, h4 {
+h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -138,6 +128,6 @@ footer {
     text-align: center;
 }
 
-footer h2, h4 {
+footer h4 {
     font-size: 20px;
 }
